@@ -40,6 +40,9 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+
+
 ![stair case](https://github.com/user-attachments/assets/f1fcf782-8342-4f93-82ba-fc055414ec7e)
 
 	
